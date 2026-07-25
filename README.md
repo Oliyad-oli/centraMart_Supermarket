@@ -1,29 +1,24 @@
-# Welcome to your Lovable project
+# Centra Mart & Cafe
 
-This project was built with [Lovable](https://lovable.dev).
+A premium supermarket and café e-commerce application for **Centra Mart & Cafe**, located at Ayat 49, Addis Ababa, Ethiopia.
 
-## Build with Lovable
+## Tech Stack
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- [TanStack Start](https://tanstack.com/start) — SSR React framework
+- [TanStack Router](https://tanstack.com/router) — File-based routing
+- [TanStack Query](https://tanstack.com/query) — Server state management
+- [React 19](https://react.dev) — UI library
+- [TypeScript](https://www.typescriptlang.org) — Type safety
+- [Tailwind CSS v4](https://tailwindcss.com) — Styling
+- [shadcn/ui](https://ui.shadcn.com) — Component library
+- [Vite](https://vitejs.dev) — Build tool
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Getting Started
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Requires Node.js 20+.
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+git clone https://github.com/Oliyad-oli/centraMart_Supermarket.git
+cd centraMart_Supermarket
+npm install --legacy-peer-deps
 npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
